@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinProject\PigLatinProject\bin\Debug\PigLatinProject.dll
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinProject\PigLatinProject\bin\Debug\PigLatinProject.pdb
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinProject\PigLatinProject\obj\Debug\PigLatinProject.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinProject\PigLatinProject\obj\Debug\PigLatinProject.dll
+C:\Users\Owner\Desktop\Projects For Resume\PigLatinProject\PigLatinProject\obj\Debug\PigLatinProject.pdb
